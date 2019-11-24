@@ -1,0 +1,93 @@
+body{
+    background:url(/images/black-wallpaper-6.jpg); 
+    background-repeat:no-repeat;
+    background-size: 100%;
+    
+    
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+
+.boxSet {
+    
+      
+    width: 100%;
+    align-content: center;
+
+  }
+
+.box-1 {
+    position: relative;
+    
+    float:left;
+    width: 45%; 
+}
+.box-1 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+
+.box-2 {
+    float:left;
+    width: 45%;
+    
+
+}
+.box-2 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+.box-3 {
+    float:left;
+    width: 45%;
+
+
+}
+.box-3 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+.box-4 {
+    float:left;
+    width: 45%;
+
+
+}
+.box-4 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+
+.box-5 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}

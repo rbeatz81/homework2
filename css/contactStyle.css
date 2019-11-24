@@ -1,0 +1,21 @@
+body{
+    background:url(/images/black-wallpaper-6.jpg); 
+    background-repeat:no-repeat;
+    background-size: 100%;
+    
+    
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+div.col-md-7 {
+    float:right !important;
+}
+
+div.form-group {
+    color:white;
+}
+
